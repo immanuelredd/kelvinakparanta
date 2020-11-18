@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap");
+@import "mixin";
+
+//general
+$font: "Montserrat", sans-serif;
+$cool-blue: #01101f;
+$cool-black: #000000;
+$cool-white: #ffffff;
+$cool-grey: #d8dada;
+$cool-red: #ff0000;
+
+html {
+  font-size: 100%;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
